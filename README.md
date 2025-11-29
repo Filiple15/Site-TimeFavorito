@@ -8,4 +8,4 @@ O objetivo do projeto foi recriar um site moderno e responsivo inspirado no club
 ## 🌐 Link para acessar o site:
 
 ```bash
-https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/index.html
+https://filiple15.github.io/Site-TimeFavorito/index.html
